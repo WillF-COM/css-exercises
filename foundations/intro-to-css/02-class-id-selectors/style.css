@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+.fresh{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Dejavu-sans, sans-serif;
+     background-color: #ff00ff80;
+}
+
+.freshbig{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Dejavu-sans, sans-serif;
+     background-color: #ff00ff80;
+     font-size: 24px;
+
+}
+
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 36px;
+}
+
+#titles {
+    font-family: Verwana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(121, 204, 121);
+    font-weight: bold;
+}
+
+
